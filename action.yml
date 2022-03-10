@@ -1,0 +1,13 @@
+# Copyright (C) 2022 Carry Assistant Trolley (C.A.T) Technologies
+
+name: License Checker
+description: GitHub Action for checking the license lines of the files in a repositor
+author: Adwait Naik <adwaitnaik2@gmail.com>
+branding:
+  icon: align-left
+  color: purple
+inputs: {}
+outputs: {}
+runs:
+  using: docker
+  image: Dockerfile

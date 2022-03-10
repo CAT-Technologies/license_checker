@@ -1,0 +1,12 @@
+# Copyright (C) 2022 Carry Assistant Trolley (C.A.T) Technologies
+name: test
+on:
+  push:
+    branches: [main]
+jobs:
+  license-check:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@main
+    - name: Check license lines
+      uses: ./
