@@ -1,7 +1,7 @@
 # Copyright (C) 2022 Carry Assistant Trolley (C.A.T) Technologies
 
 name: License Checker
-description: GitHub Action for checking the license lines of the files in a repositor
+description: GitHub Action for checking the license lines of the files in a repository
 author: Adwait Naik <adwaitnaik2@gmail.com>
 branding:
   icon: align-left
