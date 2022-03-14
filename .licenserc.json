@@ -1,8 +1,4 @@
 {
-  "*.cpp": "Copyright (C) 2022 Carry Assistant Trolley (C.A.T) Technologies."
-}
-
-{
   "**/*.cpp": [
     "/*"
     "* Copyright (C) 2022 Carry Assistant Trolley (C.A.T) Technologies",
